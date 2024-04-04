@@ -164,4 +164,4 @@ on hotels.market_segment = market_segment.market_segment
 left join meal_cost
 on meal_cost.meal = hotels.meal
 
---Now the data will be tranford and vizualized in PowerBI
+--Now the data will be transferred and vizualized in PowerBI
