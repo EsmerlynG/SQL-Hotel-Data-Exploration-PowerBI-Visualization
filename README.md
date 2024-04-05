@@ -1,4 +1,4 @@
-# SQL-Hotel-Data-PowerBI-Visualization
+# Hotel-Data-PowerBI-Visualization
 
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/10e1b521-0ebe-440f-b729-9b2452b06816/ReportSection?experience=power-bi
