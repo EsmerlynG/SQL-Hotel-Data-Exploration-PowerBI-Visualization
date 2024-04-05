@@ -33,9 +33,6 @@ from hotels
 
 -- Creating revenue collumn to visualize Year by Year Revenue
 
-select *
-From PortfolioProject
-
 With hotels as (
 Select * 
 From PortfolioProject..[2018]
